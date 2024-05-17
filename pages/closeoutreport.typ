@@ -16,7 +16,7 @@
 #set terms(separator: [: ],hanging-indent: 40pt)
 / Project Name : Anastasia Labs - Open Source Production Grade DApps
 
-/ URL : #link("https://projectcatalyst.io/funds/10   f10-developer-ecosystem-the-evolution/anastasia-labs-open-source-production-grade-dapps")
+/ URL : #link("https://projectcatalyst.io/funds/10/f10-developer-ecosystem-the-evolution/anastasia-labs-open-source-production-grade-dapps")
 
 / Project Number : 1000010
 
@@ -36,7 +36,7 @@
 
 / List of project KPIs and how the project addressed them :
 
-- *Adoption Rate and Usage Metrics :*  The important statistics of the project's overall GitHub activity can be found at this “link”. The metrics of all the key repositories of this proposal can be found here ”link”.
+- *Adoption Rate and Usage Metrics :*  The important statistics of the project's overall GitHub activity can be found at this #link("https://github.com/Anastasia-Labs/production-grade-dapps/pulse/monthly")[link]. This includes all the key repositories of this proposal which are detailed in the extensive documentation found here #link("https://anastasia-labs.github.io/production-grade-dapps")[documentation].
 
 
 - *Extensive Documentation  :* Comprehensive documentation for each smart contract library, including detailed explanations of contract functionality, parameters, and usage, was provided. Detailed diagrams aid in understanding contract architecture and data flows.
