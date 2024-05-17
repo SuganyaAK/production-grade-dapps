@@ -1,6 +1,6 @@
 #set text(
-  font: "New Computer Modern",
-  size: 11pt
+  font:"Computer Modern",
+  size: 12pt
 )
 #set page(
   paper: "a4",
@@ -42,14 +42,14 @@
 - *Extensive Documentation  :* Comprehensive documentation for each smart contract library, including detailed explanations of contract functionality, parameters, and usage, was provided. Detailed diagrams aid in understanding contract architecture and data flows.
 
 
-= Key achievements (in particular around collaboration and engagement)
+/ Key achievements (in particular around collaboration and engagement) :
 
-= Key learnings
+/ Key learnings :
 
-= Next steps for the product or service developed
+/ Next steps for the product or service developed :
 
-= Final thoughts/comments
+/ Final thoughts/comments :
 
-= Links to other relevant project sources or documents. 
+/ Links to other relevant project sources or documents : 
 
-= Link to Close out video  
+/ Link to Close out video  :
