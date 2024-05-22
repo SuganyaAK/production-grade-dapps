@@ -107,7 +107,7 @@
 
 -  Successful implementation of smart contracts, providing the Cardano developer community with production-ready resources and comprehensive documentation to help developers understand.
 
-#v(20pt)
+#v(10pt)
 
 = Key learnings 
 #v(20pt)
@@ -116,12 +116,14 @@
 #v(10pt)
 - *Improvements in Tooling and Documentation :* Another important learning was the recognition of the need for improved tooling and documentation. By enhancing the style and clarity of documentation, we facilitate easier onboarding for developers, making it simpler for them to understand and contribute to the projects. This improvement not only accelerates the development process but also promotes a more inclusive and collaborative environment.
 
-#v(20pt)
+#v(10pt)
 = Next steps for the product developed 
-#v(20pt)
+#v(10pt)
 - *Expand with New Production-Grade DApps :* Develop and release additional high-quality DApps to enhance the ecosystem.
 
 - *Increase Adoption :* Make these smart contracts available in various smart contract languages to reach a broader developer audience.
+
+- *Provide Developer Support:* Offer comprehensive support to developers, including documentation and community engagement, to facilitate the adoption and use of these smart contracts.
 
 #pagebreak()
 #v(40pt)
